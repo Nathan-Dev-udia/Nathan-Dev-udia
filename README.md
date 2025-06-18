@@ -18,7 +18,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 
 ## 🧩 Alguns projetos que desenvolvi
 
-- 🔄 **Backup automático (C#/Python)**  
+- 🔄 **Backup automático (C#)**  
   Backup direto para o Drive sem precisar compartilhar pastas, com interface e instalador.
 
 - 📊 **[Sistema web com dashboards e consultas em banco de dados — AutoGest](https://github.com/Nathan-Dev-udia/AutoGest)**  
