@@ -25,7 +25,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
   Flask + Pandas + Chart.js, com versão em Streamlit.
 
 - 🔋 **Consulta de bateria por modelo**  
-  Aplicação desktop em C# com SQLite, fácil e rápido de usar.
+  Aplicação desktop em C# com SQLite, utilizando banco de dados embarcado, fácil e rápido de usar.
 
 - 🤖 **Bot de cadastro de produtos/notas**  
   Automatiza navegação e preenchimento no sistema.
