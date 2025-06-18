@@ -29,7 +29,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
   Leitura e extração de dados de Nota Fiscal Eletronica para armazenar informações e posterior consulta.
 
 - 🤖 **Bot de cadastro de produtos e notas fiscais**  
-  Automatização de cadastros com Python para reduzir tempo de digitação manual.
+  Automatiza cliques, preenchimentos e navegação entre abas para agilizar cadastros.
 
 - 📊 **Dashboard de vendas com gráficos interativos**  
   Visualização de vendas por vendedor usando Pandas, Flask e Chart.js. E uma versão utilizando Streamlit.
