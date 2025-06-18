@@ -25,7 +25,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 - 🔋 **Consulta de bateria por modelo de carro**  
   Sistema em C# com SQLite para retornar informações como amperagem, CCA e lado do borne.
 
-- 🧾 **Importador de XML de notas fiscais**  
+- 🧾 **Importador de arquivo XML de notas fiscais**  
   Leitura e extração de dados de Nota Fiscal Eletronica para armazenar informações e posterior consulta.
 
 - 🤖 **Bot de cadastro de produtos e notas fiscais**  
