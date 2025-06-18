@@ -36,7 +36,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 
 - E-mail: nathan.dev.udia@gmail.com
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dev-udia&layout=compact&langs_count=8&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dev-udia&layout=compact&langs_count=8&theme=radical)
 ---
 
 <div align="center">
