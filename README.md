@@ -22,12 +22,12 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
   Backup direto para o Drive sem precisar compartilhar pastas, com interface e instalador.
 
 - 📊 **[Sistema web com dashboards e consultas em banco de dados — AutoGest](https://github.com/Nathan-Dev-udia/AutoGest)**  
-  Flask + Pandas + Chart.js, com versão em Streamlit.
+  Flask + Pandas + Chart.js.
 
 - 🔋 **Consulta de bateria por modelo**  
   Aplicação desktop em C# com SQLite, utilizando banco de dados embarcado, fácil e rápido de usar.
 
-- 🤖 **Bot de cadastro de produtos/notas**  
+- 🤖 **Bot de cadastro de produtos/notas fiscais**  
   Automatiza navegação e preenchimento no sistema.
 
 ---
