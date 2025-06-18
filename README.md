@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá! Me chamo Nathan Fernandes Alves
 
-<!--
-**Nathan-Dev-udia/Nathan-Dev-udia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**, e **Power BI**. Já desenvolvi sistemas com banco de dados embarcado, automações com bots, dashboards interativos e até backup automático com API do Google Drive.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que já usei
+
+- **C# (Windows Forms e XAML)**
+- **Python (Flask, Jupyter, Streamlit)**
+- **SQLite e MySQL**
+- **HTML, CSS e JS**
+- **Kotlin (Android Studio)**
+- **Dart (Android Studio)**
+- **Power BI com Python**
+- **APIs REST (Google Drive e Bling)**
+
+---
+
+## 🧩 Alguns projetos que desenvolvi
+
+- 🔄 **Backup automático com API do Google Drive**  
+  Backup direto para o Drive sem precisar autenticar ou compartilhar pastas, com organização por data/hora.
+
+- 🔋 **Consulta de bateria por modelo de carro**  
+  Sistema em C# com SQLite para retornar informações como amperagem, CCA e lado do borne.
+
+- 🧾 **Importador de XML de notas fiscais**  
+  Leitura e extração de dados de Nota Fiscal Eletronica para armazenar informações e posterior consulta.
+
+- 🤖 **Bot de cadastro de produtos e notas fiscais**  
+  Automatização de cadastros com Python para reduzir tempo de digitação manual.
+
+- 📊 **Dashboard de vendas com gráficos interativos**  
+  Visualização de vendas por vendedor usando Pandas, Flask e Chart.js. E uma versão utilizando Streamlit.
+
+- 📱 **App em Kotlin para números por extenso**  
+  Você digita 320, e ele mostra “trezentos e vinte”.
+
+- 📦 **Projeto AutoGest**  
+  Sistema web completo para gestão de autocenters e oficinas, com dashboard, consulta por modelo, cards, modo escuro e diveros planejamentos.
+
+---
+
+## 📫 Como me encontrar
+
+- E-mail: nathan.dev.udia@gmail.com
+
+---
+
+> “Transformando processos manuais em soluções automatizadas e inteligentes.”
