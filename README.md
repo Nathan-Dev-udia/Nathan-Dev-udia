@@ -61,4 +61,5 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" />
 </div>
 
+---
 > “Transformando processos manuais em soluções automatizadas e inteligentes.”
