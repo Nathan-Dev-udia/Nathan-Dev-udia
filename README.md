@@ -10,7 +10,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 - **Python (Flask, automações, ML, dashboards)**
 - **SQLite / MySQL**
 - **HTML, CSS, JavaScript**
-- **Kotlin (Android)**
+- **Kotlin (Android Studio)**
 - **Power BI**
 - **APIs REST (Google Drive, Bling em desenvolvimento)**
 
