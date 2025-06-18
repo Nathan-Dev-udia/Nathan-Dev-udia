@@ -6,40 +6,29 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 
 ## 🛠️ Tecnologias que já usei
 
-- **C# (Windows Forms, XAML, ML.Net e Unno Plataform)**
-- **Inno Setup** - criação de instaladores para distribuição dos sistemas em C#
-- **Python (web, automações, Machine Learning, dashboards)**
-- **SQLite e MySQL**
-- **HTML, CSS e JS**
-- **Kotlin (Android Studio)**
-- **Dart (Android Studio)**
-- **Power BI com Python**
-- **APIs REST (Google Drive e Bling)**
+- **C# (Windows Forms, XAML, Inno Setup)**
+- **Python (Flask, automações, ML, dashboards)**
+- **SQLite / MySQL**
+- **HTML, CSS, JavaScript**
+- **Kotlin (Android)**
+- **Power BI**
+- **APIs REST (Google Drive, Bling em desenvolvimento)**
 
 ---
 
 ## 🧩 Alguns projetos que desenvolvi
 
-- 🔄 **Backup automático com API do Google Drive**  
-  Backup direto para o Drive sem precisar autenticar ou compartilhar pastas, com organização por data/hora.
+- 🔄 **Backup automático (C#/Python)**  
+  Backup direto para o Drive sem precisar compartilhar pastas, com interface e instalador.
 
-- 🔋 **Consulta de bateria por modelo de carro**  
-  Sistema em C# com SQLite para retornar informações como amperagem, CCA e lado do borne.
+- 📊 **Sistema web com múltiplas funções internas**  
+  Flask + Pandas + Chart.js, com versão em Streamlit.
 
-- 🧾 **Importador de arquivo XML de notas fiscais**  
-  Leitura e extração de dados de Nota Fiscal Eletronica para armazenar informações e posterior consulta.
+- 🔋 **Consulta de bateria por modelo**  
+  Aplicação desktop em C# com SQLite, fácil e rápido de usar.
 
-- 🤖 **Bot de cadastro de produtos e notas fiscais**  
-  Automatiza cliques, preenchimentos e navegação entre abas para agilizar cadastros.
-
-- 📊 **Dashboard de vendas com gráficos interativos**  
-  Visualização de vendas por vendedor usando Pandas, Flask e Chart.js. E uma versão utilizando Streamlit.
-
-- 📱 **App em Kotlin para números por extenso**  
-  Você digita 320, e ele mostra “trezentos e vinte”.
-
-- 📦 **Projeto AutoGest**  
-  Sistema web completo para gestão de autocenters e oficinas, com dashboard, consulta por modelo, cards, modo escuro e diveros planejamentos.
+- 🤖 **Bot de cadastro de produtos/notas**  
+  Automatiza navegação e preenchimento no sistema.
 
 ---
 
