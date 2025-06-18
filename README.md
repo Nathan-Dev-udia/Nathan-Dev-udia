@@ -12,7 +12,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 - **HTML, CSS, JavaScript**
 - **Kotlin (Android Studio)**
 - **Power BI**
-- **APIs REST (Google Drive, Bling em desenvolvimento)**
+- **APIs REST (Google Drive, Bling)**
 
 ---
 
