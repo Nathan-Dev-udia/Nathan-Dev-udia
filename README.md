@@ -6,7 +6,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 
 ## 🛠️ Tecnologias que já usei
 
-- **C# (Windows Forms, XAML e ML.Net)**
+- **C# (Windows Forms, XAML, ML.Net e Unno Plataform)**
 - **Python (Flask, Jupyter, Streamlit)**
 - **SQLite e MySQL**
 - **HTML, CSS e JS**
