@@ -7,6 +7,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 ## 🛠️ Tecnologias que já usei
 
 - **C# (Windows Forms, XAML, ML.Net e Unno Plataform)**
+- **Inno Setup** – criação de instaladores para distribuição dos sistemas em C#
 - **Python** (web, automações, Machine Learning, dashboards)
 - **SQLite e MySQL**
 - **HTML, CSS e JS**
