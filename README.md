@@ -27,7 +27,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 - 🔋 **Consulta de bateria por modelo**  
   Aplicação desktop em C# com SQLite, utilizando banco de dados embarcado, fácil e rápido de usar.
 
-- 🤖 **Bot de cadastro de produtos/notas fiscais**  
+- 🤖 **[Bot de cadastro de produtos/notas fiscais](https://github.com/Nathan-Dev-udia/nfe-automation-script)**  
   Automatiza navegação e preenchimento no sistema.
 
 ---
