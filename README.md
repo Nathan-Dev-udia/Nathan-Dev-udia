@@ -24,7 +24,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 - 📊 **[Sistema web com dashboards e consultas em banco de dados — AutoGest](https://github.com/Nathan-Dev-udia/AutoGest)**  
   Flask + Pandas + Chart.js.
 
-- 🔋 **Consulta de bateria por modelo**  
+- 🔋 **[Consulta de bateria por modelo](https://github.com/Nathan-Dev-udia/BateriaFacil)**  
   Aplicação desktop em C# com SQLite, utilizando banco de dados embarcado, fácil e rápido de usar.
 
 - 🤖 **[Bot de cadastro de produtos/notas fiscais](https://github.com/Nathan-Dev-udia/nfe-automation-script)**  
