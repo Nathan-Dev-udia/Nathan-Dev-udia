@@ -35,7 +35,7 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 ## 📫 Como me encontrar
 
 - E-mail: nathan.dev.udia@gmail.com
-- [Linkedin](www.linkedin.com/in/nathan-fernandes-93761a179)
+- [Linkedin](https://www.linkedin.com/in/nathan-fernandes-93761a179/)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dev-udia&layout=compact&langs_count=8&theme=radical)
 ---
