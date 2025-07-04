@@ -26,8 +26,8 @@ Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, c
 - 📊 **[Sistema web com dashboards e consultas em banco de dados — AutoGest](https://github.com/Nathan-Dev-udia/AutoGest)**  
   Flask + Pandas + Chart.js.
 
-- ⚙️ **[API REST para consulta de baterias](https://github.com/Nathan-Dev-udia/react-node-bateria-api)**  
-  Criada em Node.js com Express e SQLite, fornece dados de modelos e baterias por meio de endpoints REST. Base para futuros sistemas front-end em React.
+- ⚙️ **[API REST para consulta de baterias (Node.js + React)](https://github.com/Nathan-Dev-udia/react-node-bateria-api)**  
+  Backend em Node.js com Express e SQLite que expõe endpoints REST, consumidos por uma interface moderna feita em React.
 
 - 🔋 **[Consulta de bateria por modelo](https://github.com/Nathan-Dev-udia/BateriaFacil)**  
   Aplicação desktop em C# com SQLite, utilizando banco de dados embarcado, fácil e rápido de usar.
