@@ -32,6 +32,10 @@ Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, c
 - 🤖 **[Bot de cadastro de produtos/notas fiscais](https://github.com/Nathan-Dev-udia/nfe-automation-script)**  
   Automatiza navegação e preenchimento no sistema.
 
+- ⚙️ **[API REST para consulta de baterias](https://github.com/Nathan-Dev-udia/react-node-bateria-api)**
+  Criada em Node.js com Express e SQLite, fornece dados de modelos e baterias por meio de endpoints REST. Base para futuros sistemas front-end em React.
+
+
 ---
 
 ## 📫 Como me encontrar
