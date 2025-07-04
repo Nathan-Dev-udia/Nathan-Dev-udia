@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Nathan Fernandes Alves
 
-Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**, e **Power BI**. Já desenvolvi sistemas com banco de dados embarcado, automações com bots, dashboards interativos e até backup automático com API do Google Drive.
+Sou desenvolvedor com experiência em C#, Python, Node.js e React, com foco em criar soluções completas — do banco de dados ao front-end. Já desenvolvi sistemas com banco embarcado, APIs REST, dashboards interativos, automações com bots e até backup automático com a API do Google Drive.
 
 ---
 
@@ -8,11 +8,13 @@ Sou desenvolvedor com experiência em **C#**, **Python**, **Flask**, **Kotlin**,
 
 - **C# (Windows Forms, XAML, Inno Setup)**
 - **Python (Flask, automações, ML, dashboards)**
+- **Node.js (APIs REST, Express, integração com banco)**
+- **React (componentização, consumo de APIs, UI moderna)**
 - **SQLite / MySQL**
 - **HTML, CSS, JavaScript**
 - **Kotlin (Android Studio)**
 - **Power BI**
-- **APIs REST (Google Drive, Bling)**
+- **APIs REST (Google Drive, Bling, APIs próprias)**
 
 ---
 
