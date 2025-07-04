@@ -6,15 +6,15 @@ Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, c
 
 ## 🛠️ Tecnologias que já usei
 
-- **C# (Windows Forms, XAML, Inno Setup)**
-- **Python (Flask, automações, ML, dashboards)**
-- **Node.js (APIs REST, Express, integração com banco)**
-- **React (componentização, consumo de APIs, UI moderna)**
+- **C#** (Windows Forms, XAML, Inno Setup)
+- **Python** (Flask, automações, dashboards com Streamlit, bots com Tkinter e ML)
+- **Node.js** (APIs REST, Express, integração com banco)
+- **React** (componentização, consumo de APIs, UI moderna)
+- **APIs REST** (Google Drive, ERP Bling, APIs próprias)
 - **SQLite / MySQL**
-- **HTML, CSS, JavaScript**
-- **Kotlin (Android Studio)**
+- **Kotlin** (Android Studio)
 - **Power BI**
-- **APIs REST (Google Drive, Bling, APIs próprias)**
+- **HTML, CSS, JavaScript**
 
 ---
 
