@@ -2,7 +2,7 @@
 
 Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, com foco em criar soluções completas — do banco de dados ao front-end. Já desenvolvi sistemas com banco embarcado, APIs REST, dashboards interativos, automações com bots e até backup automático com a API do Google Drive.
 
-> Também resolvo desafios de lógica e algoritmos no [BeeCrowd](https://judge.beecrowd.com/pt/profile/595071).
+> Também resolvo desafios de lógica e algoritmos no [BeeCrowd (antigo URI)](https://judge.beecrowd.com/pt/profile/595071).
 ---
 
 ## 🛠️ Tecnologias que já usei
