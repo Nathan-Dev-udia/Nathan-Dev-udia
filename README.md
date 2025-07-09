@@ -42,8 +42,15 @@ Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, c
 
 - E-mail: nathan.dev.udia@gmail.com
 - [Linkedin](https://www.linkedin.com/in/nathan-fernandes-93761a179/)
+> Aberto a novas oportunidades profissionais.
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Dev-udia&layout=compact&langs_count=8&theme=radical)
+---
+## 🔗 Links
+
+- 💼 [Portfólio](https://nathan-dev-udia.github.io/portfolio/)
+- 🕹️ [BeeCrowd (antigo URI)](https://judge.beecrowd.com/pt/profile/595071)
+
 ---
 
 <div align="center">
