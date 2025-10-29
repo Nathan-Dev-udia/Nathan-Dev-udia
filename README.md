@@ -1,25 +1,32 @@
 # 👋 Olá! Me chamo Nathan Fernandes Alves
 
-Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, com foco em criar soluções completas — do banco de dados ao front-end. Já desenvolvi sistemas com banco embarcado, APIs REST, dashboards interativos, automações com bots e até backup automático com a API do Google Drive.
+Sou desenvolvedor com experiência em **Python, C# e SQL**, com foco em criar soluções completas — **do back ao front-end**. Minhas principais competências incluem **sistemas desktop, web apps em Flask, apps multiplataforma com Flutter e bancos de dados SQL**, capazes de integrar múltiplas funções e utilidades. Já desenvolvi APIs REST (incluindo Firebase), automações e backups automáticos com Google Drive.
 
 > Também resolvo desafios de lógica e algoritmos no [BeeCrowd (antigo URI)](https://judge.beecrowd.com/pt/profile/595071) (usuário: nfalves).
+
 ---
 
 ## 🛠️ Tecnologias que já usei
 
 - **C#** (Windows Forms, XAML, Inno Setup)
 - **Python** (Flask, automações, dashboards, interface com Tkinter e ML)
+- **Flutter / Dart** (aplicativos multiplataforma)
 - **Node.js** (APIs REST, Express, integração com banco)
 - **React** (componentização, consumo de APIs, UI moderna)
-- **APIs REST** (Google Drive, ERP Bling, APIs próprias)
+- **APIs REST** (Google Drive, Firebase, ERP Bling, APIs próprias)
 - **SQLite / MySQL**
-- **Kotlin** (Android Studio)
 - **Power BI**
 - **HTML, CSS, JavaScript**
 
 ---
 
 ## 🧩 Alguns projetos que desenvolvi
+
+- 🏢 **[PlenusDesk](https://github.com/Nathan-Dev-udia/PlenusDesk)**  
+  Plataforma web administrativa completa, desenvolvida em Flask, integrada ao Firebase e Google Drive, para gerenciamento de clientes, usuários e documentos fiscais.
+
+- 📱 **[PlenusApp](https://github.com/Nathan-Dev-udia/PlenusApp)**  
+  Aplicativo multiplataforma em Flutter, consumindo dados do PlenusDesk, permitindo que clientes acessem guias de pagamento e documentos fiscais de forma simples e segura.
 
 - 🔄 **[Backup automático (C#)](https://github.com/Nathan-Dev-udia/BackupDriveCSharp)**  
   Backup direto para o Drive sem precisar compartilhar pastas, com interface e instalador.
@@ -33,8 +40,6 @@ Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, c
 - 🔋 **[Consulta de bateria por modelo](https://github.com/Nathan-Dev-udia/BateriaFacil)**  
   Aplicação desktop em C# com SQLite, utilizando banco de dados embarcado, fácil e rápido de usar.
 
-- 🤖 **[Bot de cadastro de produtos/notas fiscais](https://github.com/Nathan-Dev-udia/nfe-automation-script)**  
-  Automatiza navegação e preenchimento no sistema.
 
 ---
 
@@ -60,6 +65,7 @@ Sou desenvolvedor com experiência em **C#, Python, Kotlin, Node.js e React**, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
