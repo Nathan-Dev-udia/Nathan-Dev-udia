@@ -14,7 +14,7 @@ Sou desenvolvedor com experiência em **Python, C# e SQL**, com foco em criar so
 - **Node.js** (APIs REST, Express, integração com banco)
 - **React** (componentização, consumo de APIs, UI moderna)
 - **APIs REST** (Google Drive, Firebase, ERP Bling, APIs próprias)
-- **SQLite / MySQL**
+- **SQLite / MySQL / Firebase**
 - **Power BI**
 - **HTML, CSS, JavaScript**
 
